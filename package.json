@@ -1,10 +1,13 @@
 {
-  "name": "lidNgroVUZwDUbzoI40EkZC3CoDq6Hv0sYsCYz7YvfUvU2vkDt",
+  "name": "หวยมาเลย์วันนี้ออกอะไร คืออะไร - เว็บใหม่ ltobet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.44",
   "description": "หวยมาเลย์วันนี้ออกอะไร เลขเด็ดงวดนี้ ถึง หวยมาเลย์วันนี้ออกอะไร Ltobet แอลทีโอ เบท หวยออนไลน์ มีหวยทุกชนิด ที่ทางเว็บไซต์หวยไทยจะนำเสนอเป็นแนวทางหวยรัฐบาลใ",
   "repository": "https://github.com/gullibles-02/overdoor-11",
-  "keywords": ["หวยมาเลย์วันนี้ออกอะไร","หวยมาเลย์วันนี้ออกอะไร Ltobet"],
+  "keywords": [
+    "หวยมาเลย์วันนี้ออกอะไร",
+    "หวยมาเลย์วันนี้ออกอะไร Ltobet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
