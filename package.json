@@ -1,13 +1,10 @@
 {
-  "name": "เว็บหวยฮานอย ทำไมถึงนิยม - เว็บใหม่ huay999 2023 ล่าสุด-",
+  "name": "Rg4xIp8ELyoa0DUN66tluzO6klyrLzo3PDb0H1q2I4PCghcqGz",
   "theme": "syntax",
   "version": "1.0.23",
   "description": "เว็บหวยฮานอย เลขเด็ด แต่ เว็บหวยฮานอย ที่ Huay999 เว็บหวยออนไลน์ อันดับหนึ่ง งวดประจำวันอังคารที่ 16 เมษายน 2566 เว็บไซต์หวยไทยขอนำเสนอชุดเลขจาก หวยซุปเปอร",
   "repository": "https://github.com/gullibles-02/overdoor-11",
-  "keywords": [
-    "เว็บหวยฮานอย",
-    "เว็บหวยฮานอย Huay999"
-  ],
+  "keywords": ["เว็บหวยฮานอย","เว็บหวยฮานอย Huay999"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
