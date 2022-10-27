@@ -1,13 +1,10 @@
 {
-  "name": "หุ้นจีนเช้าย้อนหลัง สมัครยังไง - เว็บใหม่ huay 2023 ล่าสุด",
+  "name": "7zrJR6TeiDwEJZVPnAKjzWACvmS4r69PFswOwXXfowDI1hYuVj",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "หุ้นจีนเช้าย้อนหลัง เลขเด็ด ว่า หุ้นจีนเช้าย้อนหลัง ที่ Huay เว็บหวยออนไลน์ อันดับหนึ่ง งวดประจำวันเสาร์ที่ 1 มิถุนายน 2566 เว็บไซต์หวยไทยขอนำเสนอหวยปฏิทิน",
   "repository": "https://github.com/gullibles-02/overdoor-11",
-  "keywords": [
-    "หุ้นจีนเช้าย้อนหลัง",
-    "หุ้นจีนเช้าย้อนหลัง Huay"
-  ],
+  "keywords": ["หุ้นจีนเช้าย้อนหลัง","หุ้นจีนเช้าย้อนหลัง Huay"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
