@@ -1,10 +1,16 @@
 {
-  "name": "QwDkQ7eSijLZkM337ZI8hiy4S6zAR74aHXCgj3Cx6c5UgZE0Xl",
+  "name": "ยี่กี uwin789 คืออะไร - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.18",
   "description": "ยี่กี uwin789 2.1. ตาม ยี่กี uwin789 Huaylike หวยออนไลน์ อันดับหนึ่ง",
   "repository": "https://github.com/gullibles-02/overdoor-11",
-  "keywords": ["ยี่กี UWIN789","ยี่กี","UWIN789","ยี่กี Huaylike","UWIN789 Huaylike"],
+  "keywords": [
+    "ยี่กี UWIN789",
+    "ยี่กี",
+    "UWIN789",
+    "ยี่กี Huaylike",
+    "UWIN789 Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
