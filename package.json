@@ -1,10 +1,16 @@
 {
-  "name": "KYFR14yhpDlT1FmtDXdzqzUpfEPcXo59ZGZ5XXfQE3CTX06cIo",
+  "name": "ดัชนีหุ้นจีน szse เลือกยังไง - เว็บใหม่ mawinbet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.29",
   "description": "ดัชนีหุ้นจีน szse หวยไทยรัฐ ถึง ดัชนีหุ้นจีน szse ที่ Mawinbet เว็บหวยออนไลน์ อันดับหนึ่ง เป็นชุดตารางเลขเด่นผลงานดีที่คอหวยให้ความสนใจเป็นอย่างมาก นอกจากน",
   "repository": "https://github.com/gullibles-02/overdoor-11",
-  "keywords": ["ดัชนีหุ้นจีน SZSE","ดัชนีหุ้นจีน","SZSE","ดัชนีหุ้นจีน Mawinbet","SZSE Mawinbet"],
+  "keywords": [
+    "ดัชนีหุ้นจีน SZSE",
+    "ดัชนีหุ้นจีน",
+    "SZSE",
+    "ดัชนีหุ้นจีน Mawinbet",
+    "SZSE Mawinbet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
