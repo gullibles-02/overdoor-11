@@ -1,0 +1,12 @@
+{
+  "name": "tbyVdpd9lFtiJvRMoIUV5YrXCR9toey29jLjeLApkit7N7tvs0",
+  "theme": "syntax",
+  "version": "1.0.4",
+  "description": "วิเคราะห์หวยหุ้น สมาชิกท่านใดที่กำลังมองหาที่ซื้อหวยหุ้นเกาหลี ว่า วิเคราะห์หวยหุ้น 77Lotto 77ล็อตโต้ หวยออนไลน์ มีหวยทุกชนิด หรือ ซื้อหวยหุ้นออนไลน์ เราขอ",
+  "repository": "https://github.com/gullibles-02/overdoor-11",
+  "keywords": ["วิเคราะห์หวยหุ้น","วิเคราะห์หวยหุ้น 77Lotto"],
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
