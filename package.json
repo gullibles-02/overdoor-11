@@ -1,10 +1,13 @@
 {
-  "name": "8eZwCS9qGDkYT81AYkeCB2BmjlbvQ1yVp6zUZptPJccGn0bHCZ",
+  "name": "สถิติหุ้นสิงคโปร์ ได้อย่างไร - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.69",
   "description": "สถิติหุ้นสิงคโปร์ สำหรับนักเสี่ยงโชคที่กำลังมองหาแนวทาง ว่า สถิติหุ้นสิงคโปร์ ที่ Huay Happy เว็บหวยออนไลน์ อันดับหนึ่ง เลขเด็ด ประจำงวดวันที่ สถิติหุ้นสิง",
   "repository": "https://github.com/gullibles-02/overdoor-11",
-  "keywords": ["สถิติหุ้นสิงคโปร์","สถิติหุ้นสิงคโปร์ Huay Happy"],
+  "keywords": [
+    "สถิติหุ้นสิงคโปร์",
+    "สถิติหุ้นสิงคโปร์ Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
